@@ -1,0 +1,7 @@
+{
+    "infos": {
+			"etatCivil" : { "nom" : "Audry", "prenom" : "Clément", "age" : "24", "nationnalite" : "Française"},
+			"adresse" : { "numero" : "144","rue" : "rue Albert Einstein", "codePostal" : "06560", "ville" : "Sophia-Antipolis", "pays" : "France"}
+			"contact" : { "telephone" : "06 95 26 96 13", "email" : "clementaudry@gmail.com"}
+	}
+}
