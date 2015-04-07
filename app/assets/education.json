@@ -1,6 +1,7 @@
 {
     "formation": [
 			{ "etablissement" : "Polytech' Nice Sophia", "anneeDebut" : "2011", "anneeFin" : "2015", "lieu" : "Sophia-Antipolis"},
+			{ "etablissement" : "Linkoping University", "anneeDebut" : "2013", "anneeFin" : "2014", "lieu" : "Linkoping - Suède"},
 			{ "etablissement" : "Lycee Daudet", "anneeDebut" : "2008", "anneeFin" : "2011", "lieu" : "Nîmes"},
 			{ "etablissement" : "Lycee Jean Moulin", "anneeDebut" : "2005", "anneeFin" : "2008", "lieu" : "Beziers"}
 	]

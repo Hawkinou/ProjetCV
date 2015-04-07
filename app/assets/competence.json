@@ -1,0 +1,35 @@
+{
+    "competence": {
+		"web" : [
+			{ "language" : "PhP", "Note" : "1"},
+			{ "language" : "CSS", "Note" : "1"},
+			{ "language" : "XHTML", "Note" : "3"},
+			{ "language" : "angularjs", "Note" : "1"},
+			{ "language" : "javascript", "Note" : "2"}
+		],
+		"languageDeProg" : [
+			{ "language" : "Python", "Note" : "3"},
+			{ "language" : "Java", "Note" : "5"},
+			{ "language" : "C++", "Note" : "4"},
+			{ "language" : "C", "Note" : "3"},
+			{ "language" : "Programation android", "Note" : "2"},
+			{ "language" : "EJB", "Note" : "2"}
+			{ "SQL" : "EJB", "Note" : "4"}
+
+		],
+		"logicielMaitrisé" : [
+			{ "logiciel" : "Microsoft Office"},
+			{ "logiciel" : "Code:Blocks"},
+			{ "logiciel" : "Eclipse"},
+			{ "logiciel" : "Git / Stash"},
+			{ "logiciel" : "Scilab"},
+			{ "logiciel" : "Jira"},
+		],
+		"langue" : [
+			{ "language" : "Français", "Note" : "5"},
+			{ "language" : "Anglais", "Note" : "4"},
+			{ "language" : "Espagnol", "Note" : "3"},
+			{ "language" : "Chinois", "Note" : "2"},
+		]
+	}
+}
