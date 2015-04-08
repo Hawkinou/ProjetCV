@@ -1,8 +1,9 @@
 {
     "formation": [
-			{ "etablissement" : "Polytech' Nice Sophia", "anneeDebut" : "2011", "anneeFin" : "2015", "lieu" : "Sophia-Antipolis"},
-			{ "etablissement" : "Linkoping University", "anneeDebut" : "2013", "anneeFin" : "2014", "lieu" : "Linkoping - Suède"},
-			{ "etablissement" : "Lycee Daudet", "anneeDebut" : "2008", "anneeFin" : "2011", "lieu" : "Nîmes"},
-			{ "etablissement" : "Lycee Jean Moulin", "anneeDebut" : "2005", "anneeFin" : "2008", "lieu" : "Beziers"}
+			{ "etablissement" : "Polytech' Nice Sophia", "anneeDebut" : "2012", "anneeFin" : "2015", "lieu" : "Sophia-Antipolis","type" : "Parcours ingenieur en Science Informatique"},
+			{ "etablissement" : "Linkoping University", "anneeDebut" : "2013", "anneeFin" : "2014", "lieu" : "Linkoping - Suede", "type" : "Annee Erasmus autour de l'inteligence artificielle"},
+			{ "etablissement" : "Polytech' Nice Sophia", "anneeDebut" : "2011", "anneeFin" : "2012", "lieu" : "Sophia-Antipolis", "type" : "Parcours ingenieur en Genie Biologique"},
+			{ "etablissement" : "Lycee Daudet", "anneeDebut" : "2008", "anneeFin" : "2011", "lieu" : "Nimes", "type" : "Classe preparatoire en physique chimie"},
+			{ "etablissement" : "Lycee Jean Moulin", "anneeDebut" : "2005", "anneeFin" : "2008", "lieu" : "Beziers", "type" : "Bac S - option physique"}
 	]
 }

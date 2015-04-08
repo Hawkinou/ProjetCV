@@ -1,0 +1,43 @@
+
+<div class="row">
+	<h3>Language de programation :</h3>
+	<div class="chosure col-xs-2" ng-repeat="info in competence.skill.languageDeProg">
+		<h5>{{info.language}}</h5> 
+		<div class="progress">
+			<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{info.Note}}">
+				<span class="sr-only">{{info.note}} Complete (success)</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<h3>Language web :</h3>
+	<div class="chosure col-xs-2" ng-repeat="info in competence.skill.web">
+		<h5>{{info.language}}</h5> 
+		<div class="progress">		
+			<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{info.Note}}">
+			<span class="sr-only">{{info.Note}} Complete (success)</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<h3>Logiciel ma&icirc;tris&eacute; :</h3>
+	<div class="chosure col-xs-2" ng-repeat="info in competence.skill.logicielM">
+		<h5>{{info.logiciel}}</h5> 
+	</div>
+</div>
+
+<div class="row">
+	<h3>Langue parl&eacute;e :</h3>
+	<div class="chosure col-xs-2" ng-repeat="info in competence.skill.langue">
+		<h5>{{info.language}}</h5> 
+		<div class="progress">		
+			<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: {{info.Note}}">
+			<span class="sr-only">{{info.Note}} Complete (success)</span>
+			</div>
+		</div>
+	</div>
+</div>

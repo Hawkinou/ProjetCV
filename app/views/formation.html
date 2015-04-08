@@ -1,5 +1,7 @@
 <ul>
-   <li ng-repeat="etab in education.formation">
-   {{etab.etablissement}}
-   </li>
+   <div class="row" ng-repeat="etab in education.formation">
+   <h4>{{etab.etablissement}} &agrave; {{etab.lieu}}
+   <small>{{etab.anneeDebut}}-{{etab.anneeFin}}</small></h4>
+   <p class= "col-xs-8">{{etab.type}}</p>
+   </div>
 <ul>
