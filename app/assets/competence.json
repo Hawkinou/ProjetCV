@@ -1,35 +1,36 @@
 {
-    "competence": {
+    "skill": {
 		"web" : [
-			{ "language" : "PhP", "Note" : "1"},
-			{ "language" : "CSS", "Note" : "1"},
-			{ "language" : "XHTML", "Note" : "3"},
-			{ "language" : "angularjs", "Note" : "1"},
-			{ "language" : "javascript", "Note" : "2"}
+			{ "language" : "XHTML", "Note" : "60%"},
+			{ "language" : "CSS", "Note" : "20%"},
+			{ "language" : "Javascript", "Note" : "40%"},
+			{ "language" : "Angularjs", "Note" : "20%"},
+			{ "language" : "Bootstrap", "Note" : "20%"},
+			{ "language" : "PhP", "Note" : "20%"}
 		],
 		"languageDeProg" : [
-			{ "language" : "Python", "Note" : "3"},
-			{ "language" : "Java", "Note" : "5"},
-			{ "language" : "C++", "Note" : "4"},
-			{ "language" : "C", "Note" : "3"},
-			{ "language" : "Programation android", "Note" : "2"},
-			{ "language" : "EJB", "Note" : "2"}
-			{ "SQL" : "EJB", "Note" : "4"}
+			{ "language" : "Java", "Note" : "95%"},
+			{ "language" : "C++", "Note" : "80%"},
+			{ "language" : "C", "Note" : "60%"},
+			{ "language" : "Python", "Note" : "60%"},
+			{ "language" : "Programation android", "Note" : "40%"},
+			{ "language" : "EJB", "Note" : "40%"},
+			{ "language" : "SQL", "Note" : "80%"}
 
 		],
-		"logicielMaitrisé" : [
+		"logicielM" : [
 			{ "logiciel" : "Microsoft Office"},
 			{ "logiciel" : "Code:Blocks"},
 			{ "logiciel" : "Eclipse"},
 			{ "logiciel" : "Git / Stash"},
 			{ "logiciel" : "Scilab"},
-			{ "logiciel" : "Jira"},
+			{ "logiciel" : "Jira"}
 		],
 		"langue" : [
-			{ "language" : "Français", "Note" : "5"},
-			{ "language" : "Anglais", "Note" : "4"},
-			{ "language" : "Espagnol", "Note" : "3"},
-			{ "language" : "Chinois", "Note" : "2"},
+			{ "language" : "Français", "Note" : "100%"},
+			{ "language" : "Anglais", "Note" : "80%"},
+			{ "language" : "Espagnol", "Note" : "50%"},
+			{ "language" : "Chinois", "Note" : "30%"}
 		]
 	}
 }

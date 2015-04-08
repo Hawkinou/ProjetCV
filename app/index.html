@@ -2,9 +2,9 @@
 <html class="no-js">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>CV Clement AUDRY</title>
     <meta name="description" content="">
-    <meta name="viewport" content="width=device-width">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
@@ -33,16 +33,16 @@
               <span class="icon-bar"></span>
             </button>
 
-            <a class="navbar-brand" href="#/">web</a>
           </div>
 
           <div class="collapse navbar-collapse" id="js-navbar-collapse">
 
             <ul class="nav navbar-nav">
-              <li class="active"><a href="#/">Home</a></li>
-              <li><a ng-href="#/about">About</a></li>
-              <li><a ng-href="#/">Contact</a></li>
-              <li><a ng-href="#/education">Education</a></li>
+              <li class="active"><a href="#/information">Information</a></li>
+              <li><a ng-href="#/education">Formation</a></li>
+              <li><a ng-href="#/competence">Competence</a></li>
+              <li><a ng-href="#/information">Projet r&eacute;alis&eacute;</a></li>
+              <li><a ng-href="#/experience">Experience</a></li>
             </ul>
           </div>
         </div>
@@ -55,7 +55,6 @@
 
     <div class="footer">
       <div class="container">
-        <p><span class="glyphicon glyphicon-heart"></span> from the Yeoman team</p>
       </div>
     </div>
 
@@ -87,8 +86,10 @@
 
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
-        <script src="scripts/controllers/main.js"></script>
+        <script src="scripts/controllers/projet.js"></script>
+		<script src="scripts/controllers/competence.js"></script>
 		<script src="scripts/controllers/education.js"></script>
+        <script src="scripts/controllers/information.js"></script>
         <script src="scripts/controllers/about.js"></script>
         <!-- endbuild -->
 </body>
