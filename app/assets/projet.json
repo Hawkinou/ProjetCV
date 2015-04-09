@@ -1,11 +1,10 @@
 {
     "liste": [
-	{"nom" : "Myrmes", "description" : "Adaptation du jeu de plateau 'Myrmes'", "language" : [{"nom" : "Java"}]},
+	{"nom" : "Myrmes", "description" : "Adaptation du jeu de plateau Myrmes", "language" : [{"nom" : "Java"}]},
 	{"nom" : "MahJong&Memorie", "description" : "Adaptation du jeu MahJong et du Memory pour malvoyant", "language" : [{"nom" : "Java"}]},
 	{"nom" : "Cookie Factory", "description" : "Creation d'un application permettant de gerer un magasin de vente de cookie online", "language" : [{"nom" : "EJB"},{"nom":"java"}]},
-	{"nom" : "Carte du maraudeur", "description" : "Creation d'un application responsive permettant de visualiser une carte et de nous guider sur celle-ci", "language" : [{"nom" : "CSS"},{"nom":"javascript"},{"nom" : "CSS"}]},
+	{"nom" : "Carte du maraudeur", "description" : "Creation d'un application responsive permettant de visualiser une carte et de nous guider sur celle-ci", "language" : [{"nom" : "CSS"},{"nom":"javascript"},{"nom" : "PHP"}]},
 	{"nom" : "Mediatheque", "description" : "Creation d'une base de donnee de film", "language" : [{"nom" : "java-swing"}]},
-	{"nom" : "CV web", "description" : "Creation d'une base de donnee de film", "language" : [{"nom" : "java-swing"}]},
-
-	}
+	{"nom" : "CV web", "description" : "Creation du CV que vous êtes en train de regarder", "language" : [{"nom" : "angular.js"},{"nom" : "bootstrap.js"}]}
+	]
 }

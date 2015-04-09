@@ -1,0 +1,9 @@
+<ul>
+   <div class="row" ng-repeat="proj in projet.liste">
+   <h4>{{proj.nom}} 
+      <small  ng-repeat="lang in proj.language">
+
+   {{lang.nom}}</small></h4>
+   <p class= "col-xs-8">{{proj.description}}</p>
+   </div>
+<ul>
